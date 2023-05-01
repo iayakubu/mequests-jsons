@@ -1,0 +1,23 @@
+{
+  "cars": [
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2022",
+      "features": [
+        {
+          "name": "backup camera",
+          "description": "provides a view of what's behind the car when in reverse"
+        },
+        {
+          "name": "lane departure warning",
+          "description": "alerts the driver when the car starts to drift out of its lane"
+        },
+        {
+          "name": "automatic emergency braking",
+          "description": "applies the brakes if a collision is imminent"
+        }
+      ]
+    }
+  ]
+}

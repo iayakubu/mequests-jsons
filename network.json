@@ -1,0 +1,13 @@
+{
+  "network": {
+    "interface": [
+      {
+        "name": "eth0",
+        "ip_address": "192.145.3.50",
+        "subnet_mask": "255.255.255.0",
+        "gateway": "192.145.3.1"
+      }
+    ]
+  }
+}
+

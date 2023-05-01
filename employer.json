@@ -1,0 +1,10 @@
+{
+  "customers": [
+    {
+      "name": "Ola Bode",
+      "email": "Olab@mail.com",
+      "phone": "0845345370",
+      "address": "45 Avocado St, Legos"
+    }
+  ]
+}
